@@ -1,0 +1,7 @@
+.bar{
+    width: 10px;
+    background-color: coral;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;    
+}
